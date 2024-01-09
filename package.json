@@ -1,0 +1,11 @@
+{
+  "name": "task-manager",
+  "version": "0.0.1",
+  "description": "Build a queue of asynchronous tasks to run in order",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PlanetBluto",
+  "license": "ISC"
+}
